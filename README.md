@@ -12,6 +12,8 @@ python -m coffee_report --files data\data1.csv data\data2.csv --report median-co
 
 ![Результат обработки](sreenshots/image1.png)
 
+Результат тестов:
+
 ![Результат тестов](sreenshots/image2.png)
 
 Зависимости:
