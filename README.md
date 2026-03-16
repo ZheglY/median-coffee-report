@@ -10,9 +10,9 @@ python -m coffee_report --files data\data1.csv data\data2.csv --report median-co
 
 Вывод:
 
-![Результат обработки](screenshots/image1.png)
+![Результат обработки](sreenshots/image1.png)
 
-![Результат тестов](screenshots/image2.png)
+![Результат тестов](sreenshots/image2.png)
 
 Зависимости:
 
