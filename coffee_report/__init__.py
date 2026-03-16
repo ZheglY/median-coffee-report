@@ -1,0 +1,1 @@
+﻿"""Coffee report package."""
